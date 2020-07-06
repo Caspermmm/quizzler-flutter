@@ -79,7 +79,7 @@ class _QuizPageState extends State<QuizPage> {
                 ),
               ),
               onPressed: () {
-                //The user picked false.
+                //The user picked false
               },
             ),
           ),
